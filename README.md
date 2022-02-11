@@ -27,6 +27,15 @@ Saya dibekali Sertifikat
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn](https://www.linkedin.com/in/bedy-briliant-wijaya-637560229/) ku ya.
 
+## Tech Stack
+<a href="#"><img align="left" alt="cpp" title="cpp" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" /> </a>
+<a href="#"><img align="left" alt="arduino" title="arduino" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" /> </a>
+<a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/></a>
+<a href="#"><img align="left" alt="mongoDB" title="mongoDB" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"/></a>
+<a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
+  
+  <br>
+
 ## Github Statistic
 
 <p align="left">
