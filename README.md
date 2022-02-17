@@ -37,6 +37,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn](http
 <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
 <a href="#"><img align="left" alt="mySQL" title="mySQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" /></a>
 <a href="#"><img align="left" alt="vuejs" title="vuejs" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" /></a>
+<a href="#"><img align="left" alt="Flutter" title="Flutter" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Google-flutter-logo.svg"/></a>
 <br>
 
 ## Github Statistic
