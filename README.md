@@ -25,6 +25,7 @@ Saya dibekali Sertifikat
 - *[Memulai Dasar Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/GRX5K13Y2Z0M)*
 - *[Pengenalan ke Logika Pemrograman](https://www.dicoding.com/certificates/0LZ0385OQZ65)*
 - *[Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/L4PQ3L0DVPO1)*
+- *[Belajar Dasar Pemrograman Web](https://www.dicoding.com/certificates/53XEWRYOKXRN)*
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn](https://www.linkedin.com/in/bedy-briliant-wijaya-637560229/) ku ya.
 
