@@ -26,6 +26,8 @@ Saya dibekali Sertifikat
 - *[Pengenalan ke Logika Pemrograman](https://www.dicoding.com/certificates/0LZ0385OQZ65)*
 - *[Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/L4PQ3L0DVPO1)*
 - *[Belajar Dasar Pemrograman Web](https://www.dicoding.com/certificates/53XEWRYOKXRN)*
+- *[Belajar Membuat Front-End Web untuk Pemula](https://www.dicoding.com/certificates/L4PQ30YJOPO1)*
+- *[Belajar Fundamental Front-End Web Development](https://www.dicoding.com/certificates/KEXL3RNW0PG2)*
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn](https://www.linkedin.com/in/bedy-briliant-wijaya-637560229/) ku ya.
 
@@ -34,7 +36,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn](http
 <a href="#"><img align="left" alt="arduino" title="arduino" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" /> </a>
 <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/></a>
 <a href="#"><img align="left" alt="mongoDB" title="mongoDB" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"/></a>
-<a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
+<a href="#"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
 <a href="#"><img align="left" alt="mySQL" title="mySQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" /></a>
 <a href="#"><img align="left" alt="vuejs" title="vuejs" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" /></a>
 <a href="#"><img align="left" alt="Flutter" title="Flutter" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Google-flutter-logo.svg"/></a>
@@ -48,3 +50,4 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn](http
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bluntswordman&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
