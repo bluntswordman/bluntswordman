@@ -12,7 +12,7 @@ I'm Bedy Briliant Wijaya, an [informatics engineering](http://if.uigm.ac.id/) st
 - 🌱 I’m currently learning internet of things and Web Technology
 - 📫 How to reach me: 2019110015@students.uigm.ac.id
 - 😄 Pronouns: bedy, je
-- ⚡ Fun fact: I really like watching anime and I occasionally jog in the morning/evening.
+- ⚡ Fun fact: I really like watching anime and I sometimes cycle in the morning/evening.
 
 ## Interested learning Tech
 <a href="#"><img align="left" alt="cpp" title="cpp" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" /> </a>
