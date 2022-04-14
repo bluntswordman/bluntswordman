@@ -1,6 +1,8 @@
 ## Hi, welcome to my repository <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Bedy Briliant Wijaya, an [informatics engineering](http://if.uigm.ac.id/) student at [University of Indo Global Mandiri](http://www.uigm.ac.id/).
+I'm Bedy Briliant Wijaya, 
+<br>
+Student [Computer Science](http://if.uigm.ac.id/) at [University of Indo Global Mandiri](http://www.uigm.ac.id/).
 
 :mailbox: Reach me out!
 
