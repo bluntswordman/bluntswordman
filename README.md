@@ -1,35 +1,18 @@
-<!-- ### Hi there 👋 -->
+## Hi, welcome to my repository <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-<!--
-**bluntswordman/bluntswordman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Bedy Briliant Wijaya, an informatics engineering student at [University of Indo Global Mandiri](http://www.uigm.ac.id/).
 
-Here are some ideas to get you started:
+:mailbox: Reach me out!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-bedy-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bedy-b-wijaya/)
+[![Mail Badge](https://img.shields.io/badge/-@_brln.by-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/_brln.by/)
+[![Mail Badge](https://img.shields.io/badge/-bedybriliantwijaya-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:2019110015@students.uigm.ac.id)
 
-# Halo semua! 
 
-Perkenalkan nama saya **Bedy Briliant Wijaya**.
-
-Saat ini saya terdaftar di program studi [Teknik Informatika](http://if.uigm.ac.id/) di [Universitas Indo Global Mandiri](http://www.uigm.ac.id/).
-
-Saya dibekali Sertifikat
-- *[Memulai Dasar Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/GRX5K13Y2Z0M)*
-- *[Pengenalan ke Logika Pemrograman](https://www.dicoding.com/certificates/0LZ0385OQZ65)*
-- *[Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/L4PQ3L0DVPO1)*
-- *[Belajar Dasar Pemrograman Web](https://www.dicoding.com/certificates/53XEWRYOKXRN)*
-- *[Belajar Membuat Front-End Web untuk Pemula](https://www.dicoding.com/certificates/L4PQ30YJOPO1)*
-- *[Belajar Fundamental Front-End Web Development](https://www.dicoding.com/certificates/KEXL3RNW0PG2)*
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn](https://www.linkedin.com/in/bedy-briliant-wijaya-637560229/) ku ya.
+- 🌱 I’m currently learning internet of things and Web Technology
+- 📫 How to reach me: 2019110015@students.uigm.ac.id
+- 😄 Pronouns: bedy, je
+- ⚡ Fun fact: I really like watching anime and I occasionally jog in the morning/evening.
 
 ## Interested learning Tech
 <a href="#"><img align="left" alt="cpp" title="cpp" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" /> </a>
