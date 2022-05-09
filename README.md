@@ -1,20 +1,8 @@
-## Hi, welcome to my repository <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-
-I'm Bedy Briliant Wijaya, 
-<br>
-Student [Computer Science](http://if.uigm.ac.id/) at [University of Indo Global Mandiri](http://www.uigm.ac.id/).
-
 :mailbox: Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-bedy-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bedy-b-wijaya/)
 [![Mail Badge](https://img.shields.io/badge/-@_brln.by-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/_brln.by/)
 [![Mail Badge](https://img.shields.io/badge/-bedybriliantwijaya-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:2019110015@students.uigm.ac.id)
-
-
-- 🌱 I’m currently learning Internet of Things and Web Technology
-- 📫 How to reach me: 2019110015@students.uigm.ac.id
-- 😄 Pronouns: bedy, je
-- ⚡ Fun fact: I really like watching anime and I sometimes cycle in the morning/evening.
 
 ## Interested learning Tech
 <a href="#"><img align="left" alt="cpp" title="cpp" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" /> </a>
