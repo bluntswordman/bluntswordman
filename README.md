@@ -4,6 +4,8 @@
 [![Mail Badge](https://img.shields.io/badge/-@_brln.by-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/_brln.by/)
 [![Mail Badge](https://img.shields.io/badge/-bedybriliantwijaya-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:2019110015@students.uigm.ac.id)
 
+🌱 I’m currently learning internet of things and Web Technology
+
 ## Interested learning Tech
 <a href="#"><img align="left" alt="cpp" title="cpp" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" /> </a>
 <a href="#"><img align="left" alt="arduino" title="arduino" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" /> </a>
