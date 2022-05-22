@@ -16,7 +16,7 @@
   <code> <img alt="mySQL" title="mySQL" width="30px" src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png"/></code>
   <code><img alt="ReactJS" title="ReactJS" width="30px" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png"/></code>
 </div>
-
+<br><br>
 <div align="center">
   <a href="https://github.com/bluntswordman"><img src="https://github-readme-stats.vercel.app/api?username=bluntswordman&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="bluntswordman github stats" /></a><a href="https://github.com/bluntswordman"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluntswordman&layout=compact&theme=buefy&hide_border=true" /></a>
 </div>
