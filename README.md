@@ -7,7 +7,6 @@
 
 ### Technology 
 <div align="left">
-  <a href="https://github.com/bluntswordman"><img alt="none" src="https://cdn.iconscout.com/icon/free/png-64/more-vertical-3114523-2598155.png" width="30px"/></a>
   <a href="https://cplusplus.com/"><img alt="cpp" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="26px"/></a>
   <a href="https://www.javascript.com/"><img alt="javaScript" src="https://cdn.iconscout.com/icon/free/png-64/javascript-2752148-2284965.png" width="30px"/></a>
   <a href="https://github.com/bluntswordman"><img alt="none" src="https://cdn.iconscout.com/icon/free/png-64/more-vertical-3114523-2598155.png" width="30px"/></a>
@@ -20,7 +19,6 @@
   <a href="https://www.postgresql.org/"><img alt="postgresql" src="https://cdn.iconscout.com/icon/free/png-64/postgresql-10-1175121.png" width="30px"/></a>
   <a href="https://github.com/bluntswordman"><img alt="none" src="https://cdn.iconscout.com/icon/free/png-64/more-vertical-3114523-2598155.png" width="30px"/></a>
   <a href="https://reactjs.org/"><img alt="reactjs" src="https://cdn.iconscout.com/icon/free/png-64/react-3521666-2945110.png" width="30px"/></a>
-  <a href="https://github.com/bluntswordman"><img alt="none" src="https://cdn.iconscout.com/icon/free/png-64/more-vertical-3114523-2598155.png" width="30px"/></a>
 </div>
 
 ### My Statistic
