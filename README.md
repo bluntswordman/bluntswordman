@@ -17,6 +17,7 @@
   <a href="https://expressjs.com/"><img alt="expressjs" src="https://cdn.iconscout.com/icon/free/png-64/express-8-1175029.png" width="30px"/></a>
   <a href="https://github.com/bluntswordman"><img alt="none" src="https://cdn.iconscout.com/icon/free/png-64/more-vertical-3114523-2598155.png" width="30px"/></a>
   <a href="https://www.mysql.com/"><img alt="mysql" src="https://cdn.iconscout.com/icon/free/png-64/mysql-3521596-2945040.png" width="30px"/></a>
+  <a href="https://www.postgresql.org/"><img alt="postgresql" src="https://cdn.iconscout.com/icon/free/png-64/postgresql-10-1175121.png" width="30px"/></a>
   <a href="https://github.com/bluntswordman"><img alt="none" src="https://cdn.iconscout.com/icon/free/png-64/more-vertical-3114523-2598155.png" width="30px"/></a>
   <a href="https://reactjs.org/"><img alt="reactjs" src="https://cdn.iconscout.com/icon/free/png-64/react-3521666-2945110.png" width="30px"/></a>
   <a href="https://github.com/bluntswordman"><img alt="none" src="https://cdn.iconscout.com/icon/free/png-64/more-vertical-3114523-2598155.png" width="30px"/></a>
