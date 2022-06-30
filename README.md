@@ -1,5 +1,7 @@
-## Hi, I'm Bedy
-🔍 I'm interested in Web technology and Internet of things <br>
+<div align="center">
+  <h1> Hi, I'm Bedy </h1>
+  🔍 I'm interested in Web technology and Internet of things
+</div>
 <br>
 <div align="center">
   <a href="https://cplusplus.com/"><img alt="cpp" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="26px"/></a>
@@ -11,13 +13,15 @@
   <a href="https://www.postgresql.org/"><img alt="postgresql" src="https://cdn.iconscout.com/icon/free/png-64/postgresql-10-1175121.png" width="30px"/></a>
   <a href="https://reactjs.org/"><img alt="reactjs" src="https://cdn.iconscout.com/icon/free/png-64/react-3521666-2945110.png" width="30px"/></a>
 </div>
-<div align="center">
-  <a href="https://github.com/bluntswordman"><img src="https://github-readme-stats.vercel.app/api?username=bluntswordman&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=false" alt="bluntswordman github stats"/></a>
-</div>
+<br>
 <div align="center">
   
   [![Linkedin Badge](https://img.shields.io/badge/-bedy-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bedy-b-wijaya/)
-  [![Mail Badge](https://img.shields.io/badge/-@_brln.by-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/_brln.by/)
-  [![Mail Badge](https://img.shields.io/badge/-bedybriliantwijaya-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:2019110015@students.uigm.ac.id)
+  [![Instagram Badge](https://img.shields.io/badge/-@_brln.by-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/_brln.by/)
+  [![Mail Badge](https://img.shields.io/badge/-bedybriliantwijaya-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:wijaya.bedybriliant@gmail.com)
   
- </div>
+</div>
+<div align="center">
+  <a href="https://github.com/bluntswordman"><img src="https://github-readme-stats.vercel.app/api?username=bluntswordman&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=false" alt="bluntswordman github stats"/></a>
+</div>
+
