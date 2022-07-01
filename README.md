@@ -21,7 +21,4 @@
   [![Mail Badge](https://img.shields.io/badge/-bedybriliantwijaya-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:wijaya.bedybriliant@gmail.com)
   
 </div>
-<div align="center">
-  <a href="https://github.com/bluntswordman"><img src="https://github-readme-stats.vercel.app/api?username=bluntswordman&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=false" alt="bluntswordman github stats"/></a>
-</div>
 
