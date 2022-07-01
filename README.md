@@ -6,6 +6,7 @@
 <div align="center">
   <a href="https://cplusplus.com/"><img alt="cpp" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="26px"/></a>
   <a href="https://www.javascript.com/"><img alt="javaScript" src="https://cdn.iconscout.com/icon/free/png-64/javascript-2752148-2284965.png" width="30px"/></a>
+  <a href="https://www.typescriptlang.org/"><img alt="typeScript" src="https://cdn.iconscout.com/icon/free/png-64/typescript-1-1175078.png" width="30px"/></a>
   <a href="https://www.arduino.cc/"><img alt="arduino" src="https://cdn.iconscout.com/icon/free/png-64/arduino-226072.png" width="30px"/></a>
   <a href="https://nodejs.org/en/"><img alt="nodejs" src="https://cdn.iconscout.com/icon/free/png-64/nodejs-2-226035.png" width="30px"/></a>
   <a href="https://expressjs.com/"><img alt="expressjs" src="https://cdn.iconscout.com/icon/free/png-64/express-8-1175029.png" width="30px"/></a>
