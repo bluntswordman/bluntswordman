@@ -25,6 +25,5 @@
   <a href="https://spring.io/"><img alt="spring" title="spring" width="24px" src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" /></a>
   <a href="https://nextjs.org/"><img alt="nextjs" title="nextjs" width="24px" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" /></a>
   <a href="https://nestjs.com/"><img alt="nestjs" title="nestjs" width="24px" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" /></a>
-  <a href="https://tailwindcss.com/"><img alt="tailwindcss" title="tailwindcss" width="24px" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" /></a>
 </div>
 
