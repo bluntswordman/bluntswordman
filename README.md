@@ -1,8 +1,11 @@
 <div align="center">
   <h1> Hi, I'm Bedy </h1>
-  🔍 I'm interested in Web technology and Internet of things
+  🔍 I'm interested in Web technology and Internet of things  
 </div>
 <br>
+
+[![@brlnby's Holopin board](https://holopin.io/api/user/board?user=brlnby)](https://holopin.io/@brlnby)
+
 <div align="center">
 
   [![Linkedin Badge](https://img.shields.io/badge/-bedy-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bedy-b-wijaya/)
