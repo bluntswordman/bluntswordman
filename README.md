@@ -1,6 +1,6 @@
 <div align="center">
   <h1> Hi, I'm Bedy </h1>
-  🔍 I'm interested in Web technology and Internet of things  
+  <!-- 🔍 I'm interested in Web technology and Internet of things  -->
 </div>
 <br>
 
