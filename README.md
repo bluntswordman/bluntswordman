@@ -13,7 +13,7 @@
   [![Mail Badge](https://img.shields.io/badge/-bedybriliantwijaya-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:wijaya.bedybriliant@gmail.com)
 </div>
 
-<!-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluntswordman&langs_count=8)](https://github.com/bluntswordman/github-readme-stats)
 -->
 <div align="center"> 
