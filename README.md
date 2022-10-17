@@ -2,7 +2,6 @@
   <h1> Hi, I'm Bedy </h1>
   <!-- 🔍 I'm interested in Web technology and Internet of things  -->
 </div>
-<br>
 
 [![@brlnby's Holopin board](https://holopin.io/api/user/board?user=brlnby)](https://holopin.io/@brlnby)
 
