@@ -2,7 +2,7 @@
 
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bluntswordman.bluntswordman) -->
   
-# *djava adalah koentji*
+<!--  # *djava adalah koentji* -->
   
   <!--  # *"Curiosity makes you experienced"* -->
   
