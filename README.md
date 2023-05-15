@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bluntswordman.bluntswordman) -->
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bluntswordman.bluntswordman) 
   
 <!--  # *djava adalah koentji* -->
   
@@ -15,6 +15,6 @@
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=bluntswordman&count_private=true&show_icons=true&include_all_commits=true) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluntswordman&hide=TeX&layout=compact) -->
   
-  [![omae wa mou shindeiru](https://drive.google.com/uc?id=1whuCHBcULiNkdaDxYNY2aXaaPRFYSuz7)](https://github.com/bluntswordman)
+<!--  [![omae wa mou shindeiru](https://drive.google.com/uc?id=1whuCHBcULiNkdaDxYNY2aXaaPRFYSuz7)](https://github.com/bluntswordman) -->
 
 </div>
