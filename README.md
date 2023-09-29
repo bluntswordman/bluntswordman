@@ -1,6 +1,6 @@
 <div align="left">
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bluntswordman.bluntswordman)
+<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bluntswordman.bluntswordman) -->
   
 <!--  # *djava adalah koentji* -->
   
@@ -30,6 +30,6 @@
 
 </div>
 
-[![An image of @brlnby's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/brlnby)](https://holopin.io/@brlnby)
+<!-- [![An image of @brlnby's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/brlnby)](https://holopin.io/@brlnby) -->
 
 </div>
