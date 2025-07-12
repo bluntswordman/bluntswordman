@@ -1,35 +1,49 @@
-<div align="left">
+<div align="center">
+  
+  [![omae wa mou shindeiru](https://drive.google.com/uc?id=19ND9T-ix9b1q3vYSXcJA_a_Il3IVXXgo)](https://github.com/bluntswordman)
 
- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bluntswordman.bluntswordman) 
+  <img width="100px" src="https://drive.google.com/uc?id=111I919_KxWRJOKJsmsbH6CdC-iMZP89_" align="center" alt="GitHub Readme Stats" />
   
-<!--  # *djava adalah koentji* -->
-  
-  <!--  # *"Curiosity makes you experienced"* -->
-  
-   <!-- *<p align="end">- SpongeBob SquarePants</p>* -->
-  
- <!-- <img src="https://readme-typing-svg.herokuapp.com/?font=&left=true&width=720&height=45&lines=Bokura+ga+deatta+hi+wa+futari+ni+totte+ichibanme+no+kinen+subeki+hi+da+ne;Soshite+kyou+to+iu+hi+wa+futari+ni+totte+nibanme+no+kinen+subeki+hi+da+ne;Kokoro+kara+aiseru+hito;Kokoro+kara+itoshii+hito;Kono+boku+no+ai+no+mannaka+ni+wa+itsumo+kimi+ga+iru+kara" /> -->
-  
-  <img src="https://readme-typing-svg.herokuapp.com/?font=&left=true&width=720&height=45&lines=Hi,+I'm+Bedy+B+Wijaya;Have+a+nice+day." />
-  
-<!-- [![An image of @brlnby's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/brlnby)](https://holopin.io/@brlnby) -->
+  <h2>My GitHub Stats & About Me</h2>
 
-<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=bluntswordman&count_private=true&show_icons=true&include_all_commits=true) -->
+  <p>
+    ☁️ Software Engineer • ⚔️ Anime Enjoyer • 💡 Lifelong Learner  
+  </p>
 
+</div>
 
-  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluntswordman&hide=TeX&layout=compact) 
- 
-
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluntswordman&layout=compact) -->
+---
 
 <div align="center">
   
-[![omae wa mou shindeiru](https://drive.google.com/uc?id=1whuCHBcULiNkdaDxYNY2aXaaPRFYSuz7)](https://github.com/bluntswordman)
+  [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bluntswordman)](https://github.com/bluntswordman)
 
 </div>
 
-<!-- [![An image of @brlnby's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/brlnby)](https://holopin.io/@brlnby) -->
+<h2></h2>
 
+<div align="center">
+  <span style="display: inline-block;">
+    <img width="230px" src="https://drive.google.com/uc?id=1-xS13wzupIgbmgwlNiEqiGOSc9G1k0Bt" alt="divider" />
+  </span>
+  <span style="display: inline-block;">
+    <a href="https://github.com/bluntswordman">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluntswordman&layout=donut-vertical" alt="Top Langs" />
+    </a>
+  </span>
+  <span style="display: inline-block;">
+    <img width="230px" src="https://drive.google.com/uc?id=1-xS13wzupIgbmgwlNiEqiGOSc9G1k0Bt" alt="divider" />
+  </span>
 </div>
+
+<div align="center">
+  <span style="display: inline-block;">
+    <img width="200px" src="https://drive.google.com/uc?id=1SIRxT6g9ZO0AjehBQiktdLD7We5D_P7L" alt="divider" />
+    <img width="200px" src="https://drive.google.com/uc?id=1SIRxT6g9ZO0AjehBQiktdLD7We5D_P7L" alt="divider" />
+    <img width="200px" src="https://drive.google.com/uc?id=1SIRxT6g9ZO0AjehBQiktdLD7We5D_P7L" alt="divider" />
+    <img width="200px" src="https://drive.google.com/uc?id=1SIRxT6g9ZO0AjehBQiktdLD7We5D_P7L" alt="divider" />
+  </span>
+</div>
+
+
+<!-- [Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bluntswordman.bluntswordman)  -->
