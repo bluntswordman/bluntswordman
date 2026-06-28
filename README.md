@@ -19,7 +19,8 @@
   <a href="https://mein-gehirn.tech#work" style="display:inline-block; margin:8px 12px; padding:8px 16px; background:#ff6b6b; color:#fff; border-radius:6px; text-decoration:none;">Explore Projects ✨</a>
   <a href="https://mein-gehirn.tech#contact" style="display:inline-block; margin:8px 12px; padding:8px 16px; background:#f7d794; color:#fff; border-radius:6px; text-decoration:none;">Get in touch 💌</a>
 </div>
----
+
+</br>
 
 <div align="center">
   
@@ -64,7 +65,10 @@
 <div align="center">
   <!-- Snake Animation -->
 
-  ![Snake animation](https://github.com/bluntswordman/bluntswordman/blob/output/github-contribution-grid-snake.svg)
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bluntswordman/bluntswordman/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/bluntswordman/bluntswordman/output/github-snake.svg" alt="Snake Animation" />
+</picture>
 
 </div>
 
@@ -76,13 +80,13 @@
   <span style="display: inline-block;">
   <div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
   <a href="https://play.google.com/store/apps/details?id=superapps.polri.presisi.presisi" target="_blank">
-    <img src="assets/elaina.jpg" alt="Elaina" width="280" style="border-radius:8px;" />
+    <img src="assets/elaina.jpg" alt="Elaina" width="230px" style="border-radius:8px;" />
   </a>
   <a href="https://protokol.palembang.go.id" target="_blank">
-    <img src="assets/makise_kurisu.jpg" alt="Makise Kurisu" width="280" style="border-radius:8px;" />
+    <div style="display:inline-block; background:radial-gradient(circle at 30% 30%,#ffccf2,#ffe6f8); border-radius:12px; padding:4px;"><img src="assets/rem.jpg" alt="Raphtalia" width="230px" style="border-radius:8px;" /></div>
   </a>
   <a href="https://kuatbaca.com" target="_blank">
-    <img src="assets/tendou_karen.jpg" alt="Tendou Karen" width="280" style="border-radius:8px;" />
+    <img src="assets/tendou_karen.jpg" alt="Tendou Karen" width="230px" style="border-radius:8px;" />
   </a>
 </div>
 
