@@ -14,7 +14,7 @@
 
 <div align="center" style="background: linear-gradient(135deg, #ff9a9e, #fad0c4); padding: 30px; border-radius: 12px; text-align: center; color: #333; font-family: 'Comic Sans MS', cursive, sans-serif;">
   <img src="assets/hero_hoshimiya.jpg" alt="Hoshimiya Hikari" width="200" style="border-radius: 50%; border: 4px solid #fff; box-shadow: 0 0 10px rgba(0,0,0,0.2);" />
-  <h1 style="margin-top: 15px; font-size: 2em; background: linear-gradient(45deg, #ff6b6b, #f7d794); -webkit-background-clip: text; color: transparent;">Hi, I'm <a href="https://mein-gehirn.tech" style="text-decoration:none; color:inherit;">Bedy Briliant Wijaya 🌸</a></h1>
+  <h1 style="margin-top: 15px; font-size: 2em; background: linear-gradient(45deg, #ff6b6b, #f7d794); -webkit-background-clip: text; color: transparent;">Hi, I'm <a href="https://mein-gehirn.tech" style="text-decoration:none; color:inherit;">Blunt Swordman 🌸</a></h1>
   <p style="font-size:1.1em; color:#555;">A <strong>Software Engineer</strong> based in <strong>Jakarta</strong>, loving cute <span style="color:#ff69b4;">microservices</span> &amp; <span style="color:#ff69b4;">distributed systems</span>. Let’s create adorable, high‑performance apps! 💖</p>
   <a href="https://mein-gehirn.tech#work" style="display:inline-block; margin:8px 12px; padding:8px 16px; background:#ff6b6b; color:#fff; border-radius:6px; text-decoration:none;">Explore Projects ✨</a>
   <a href="https://mein-gehirn.tech#contact" style="display:inline-block; margin:8px 12px; padding:8px 16px; background:#f7d794; color:#fff; border-radius:6px; text-decoration:none;">Get in touch 💌</a>
