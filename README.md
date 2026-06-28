@@ -2,7 +2,7 @@
   
   
 
-  <!-- <img width="100px" src="https://drive.google.com/uc?id=111I919_KxWRJOKJsmsbH6CdC-iMZP89_" align="center" alt="GitHub Readme Stats" /> -->
+  <img width="100px" src="https://drive.google.com/uc?id=111I919_KxWRJOKJsmsbH6CdC-iMZP89_" align="center" alt="GitHub Readme Stats" />
   
   <h2>My GitHub Stats & About Me</h2>
 
@@ -33,8 +33,8 @@
 <div align="center">
   <div style="display: flex; gap: 12px; justify-content: center;">
     <img width="230px" src="assets/makise_kurisu.jpg" alt="Makise Kurisu" style="border-radius:8px;" />
-    <a href="https://github.com/bluntswordman"><img width="230px" src="assets/yuuki_asuna.jpg" alt="Yuuki Asuna" style="border-radius:8px;" /></a>
-    <img width="230px" src="assets/yukino.jpg" alt="Tendou Karen" style="border-radius:8px;" />
+    <a href="https://github.com/bluntswordman"><img width="230px" src="assets/yukino.jpg" alt="Yuuki Asuna" style="border-radius:8px;" /></a>
+    <img width="230px" src="assets/yuuki_asuna.jpg" alt="Tendou Karen" style="border-radius:8px;" />
   </div>
 </div>
 
@@ -50,17 +50,20 @@
 
 
 <div align="center">
+
 <a href="https://github.com/bluntswordman"><img src="https://visitor-badge.laobi.icu/badge?page_id=bluntswordman.bluntswordman" alt="Visitor Badge" /></a>
+
 </div>
 
 <div align="center" style="margin-top: 20px;">
+
   <a href="https://www.linkedin.com/in/bedy-briliant-wijaya/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/bluntswordman" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.instagram.com/_brln.by/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram" /></a>
 </div>
-  </span>
 
 <div align="center">
+
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bluntswordman/bluntswordman/output/github-snake-dark.svg">
   <img src="https://raw.githubusercontent.com/bluntswordman/bluntswordman/output/github-snake.svg" alt="Snake Animation" />
@@ -77,10 +80,10 @@
 <div align="center">
   <div style="display: flex; gap: 12px; justify-content: center;">
     <a href="https://play.google.com/store/apps/details?id=superapps.polri.presisi.presisi" target="_blank">
-    <img src="assets/elaina.jpg" alt="Elaina" width="230px" style="border-radius:8px;" />
+    <img src="assets/rem.jpg" alt="Elaina" width="230px" style="border-radius:8px;" />
   </a>
   <a href="https://protokol.palembang.go.id" target="_blank">
-    <img src="assets/rem.jpg" alt="Raphtalia" width="230px" style="border-radius:8px;" />
+    <img src="assets/elaina.jpg" alt="Raphtalia" width="230px" style="border-radius:8px;" />
   </a>
   <a href="https://kuatbaca.com" target="_blank">
     <img src="assets/tendou_karen.jpg" alt="Tendou Karen" width="230px" style="border-radius:8px;" />
