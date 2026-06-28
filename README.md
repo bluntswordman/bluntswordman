@@ -2,7 +2,7 @@
   
   
 
-  <img width="100px" src="https://drive.google.com/uc?id=111I919_KxWRJOKJsmsbH6CdC-iMZP89_" align="center" alt="GitHub Readme Stats" />
+  <!-- <img width="100px" src="https://drive.google.com/uc?id=111I919_KxWRJOKJsmsbH6CdC-iMZP89_" align="center" alt="GitHub Readme Stats" /> -->
   
   <h2>My GitHub Stats & About Me</h2>
 
@@ -12,7 +12,7 @@
 
 </div>
 
-<div align="center" style="background: linear-gradient(135deg, #ff9a9e, #fad0c4); padding: 30px; border-radius: 12px; text-align: center; color: #333; font-family: 'Comic Sans MS', cursive, sans-serif;">
+<div align="center" style="background: linear-gradient(135deg, #ff9a9e, #fad0c4); padding: 20px; border-radius: 12px; text-align: center; color: #333; font-family: 'Comic Sans MS', cursive, sans-serif;">
   <img src="assets/hero_hoshimiya.jpg" alt="Hoshimiya Hikari" width="200" style="border-radius: 50%; border: 4px solid #fff; box-shadow: 0 0 10px rgba(0,0,0,0.2);" />
   <h1 style="margin-top: 15px; font-size: 2em; background: linear-gradient(45deg, #ff6b6b, #f7d794); -webkit-background-clip: text; color: transparent;">Hi, I'm <a href="https://mein-gehirn.tech" style="text-decoration:none; color:inherit;">Blunt Swordman 🌸</a></h1>
   <p style="font-size:1.1em; color:#555;">A <strong>Software Engineer</strong> based in <strong>Jakarta</strong>, loving cute <span style="color:#ff69b4;">microservices</span> &amp; <span style="color:#ff69b4;">distributed systems</span>. Let’s create adorable, high‑performance apps! 💖</p>
@@ -28,7 +28,7 @@
 
 </div> -->
 
-<h2></h2>
+<!-- <h2></h2> -->
 
 <div align="center">
   <div style="display: flex; gap: 12px; justify-content: center;">
@@ -89,11 +89,11 @@
 </div>
 
 
-<div align="center" style="margin-top: 20px;">
+<!-- <div align="center" style="margin-top: 20px;">
 
 [![omae wa mou shindeiru](https://drive.google.com/uc?id=19ND9T-ix9b1q3vYSXcJA_a_Il3IVXXgo)](https://github.com/bluntswordman)
 
-</div>
+</div> -->
 
 
 
