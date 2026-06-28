@@ -22,11 +22,11 @@
 
 </br>
 
-<div align="center">
+<!-- <div align="center">
   
   [![Anime Trophies](assets/yukino.jpg)](https://github.com/bluntswordman)
 
-</div>
+</div> -->
 
 <h2></h2>
 
@@ -34,7 +34,7 @@
   <div style="display: flex; gap: 12px; justify-content: center;">
     <img width="230px" src="assets/makise_kurisu.jpg" alt="Makise Kurisu" style="border-radius:8px;" />
     <a href="https://github.com/bluntswordman"><img width="230px" src="assets/yuuki_asuna.jpg" alt="Yuuki Asuna" style="border-radius:8px;" /></a>
-    <img width="230px" src="assets/tendou_karen.jpg" alt="Tendou Karen" style="border-radius:8px;" />
+    <img width="230px" src="assets/yukino.jpg" alt="Tendou Karen" style="border-radius:8px;" />
   </div>
 </div>
 
