@@ -30,17 +30,11 @@
 <h2></h2>
 
 <div align="center">
-  <span style="display: inline-block;">
-    <img width="230px" src="assets/makise_kurisu.jpg" alt="Makise Kurisu" />
-  </span>
-  <span style="display: inline-block;">
-    <a href="https://github.com/bluntswordman">
-      <img src="assets/yuuki_asuna.jpg" alt="Yuuki Asuna" />
-    </a>
-  </span>
-  <span style="display: inline-block;">
-    <img width="230px" src="assets/tendou_karen.jpg" alt="Tendou Karen" />
-  </span>
+  <div style="display: flex; gap: 12px; justify-content: center;">
+    <img width="230px" src="assets/makise_kurisu.jpg" alt="Makise Kurisu" style="border-radius:8px;" />
+    <a href="https://github.com/bluntswordman"><img width="230px" src="assets/yuuki_asuna.jpg" alt="Yuuki Asuna" style="border-radius:8px;" /></a>
+    <img width="230px" src="assets/tendou_karen.jpg" alt="Tendou Karen" style="border-radius:8px;" />
+  </div>
 </div>
 
 <div align="center">
@@ -64,10 +58,10 @@
   <a href="https://github.com/bluntswordman"><img src="https://github-readme-stats.vercel.app/api?username=bluntswordman&show_icons=true&hide=issues,prs" alt="GitHub Stats" /></a>
   <img src="https://img.shields.io/github/created-at/bluntswordman?label=Joined&color=blue" alt="Joined Date" />
 </div>
-
+<a href="https://github.com/bluntswordman"><img src="https://visitor-badge.laobi.icu/badge?page_id=bluntswordman.bluntswordman" alt="Visitor Badge" /></a>
 <div align="center">
   <!-- Snake Animation -->
-  <img src="https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/thepiyushmalhotra/thepiyushmalhotra/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 <div align="center">
@@ -97,4 +91,4 @@
 </div>
 
 
-[Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bluntswordman.bluntswordman) 
+<!-- [Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bluntswordman.bluntswordman)  -->
