@@ -48,23 +48,19 @@
   </p>
 </div>
 
-  <!-- Most Used Language -->
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bluntswordman&layout=compact&langs_count=5" alt="Top Languages" />
-</div> -->
-
-  <!-- Profile Stats -->
-<!-- <div align="center">
-  <a href="https://github.com/bluntswordman"><img src="https://github-readme-stats.vercel.app/api?username=bluntswordman&show_icons=true&hide=issues,prs" alt="GitHub Stats" /></a>
-</div> -->
 
 <div align="center">
 <a href="https://github.com/bluntswordman"><img src="https://visitor-badge.laobi.icu/badge?page_id=bluntswordman.bluntswordman" alt="Visitor Badge" /></a>
 </div>
 
-<div align="center">
-  <!-- Snake Animation -->
+<div align="center" style="margin-top: 20px;">
+  <a href="https://www.linkedin.com/in/bedy-briliant-wijaya/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/bluntswordman" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.instagram.com/_brln.by/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram" /></a>
+</div>
+  </span>
 
+<div align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bluntswordman/bluntswordman/output/github-snake-dark.svg">
   <img src="https://raw.githubusercontent.com/bluntswordman/bluntswordman/output/github-snake.svg" alt="Snake Animation" />
@@ -92,12 +88,6 @@
   </div>
 </div>
 
-<div align="center" style="margin-top: 20px;">
-  <a href="https://www.linkedin.com/in/bedy-briliant-wijaya/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/bluntswordman" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.instagram.com/_brln.by/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram" /></a>
-</div>
-  </span>
-</div>
+
 
 <!-- [Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bluntswordman.bluntswordman)  -->
