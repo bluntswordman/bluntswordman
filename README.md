@@ -12,11 +12,18 @@
 
 </div>
 
+<div align="center" style="background: linear-gradient(135deg, #ff9a9e, #fad0c4); padding: 30px; border-radius: 12px; text-align: center; color: #333; font-family: 'Comic Sans MS', cursive, sans-serif;">
+  <img src="assets/hero_hoshimiya.jpg" alt="Hoshimiya Hikari" width="200" style="border-radius: 50%; border: 4px solid #fff; box-shadow: 0 0 10px rgba(0,0,0,0.2);" />
+  <h1 style="margin-top: 15px; font-size: 2em; background: linear-gradient(45deg, #ff6b6b, #f7d794); -webkit-background-clip: text; color: transparent;">Hi, I'm <a href="https://mein-gehirn.tech" style="text-decoration:none; color:inherit;">Bedy Briliant Wijaya 🌸</a></h1>
+  <p style="font-size:1.1em; color:#555;">A <strong>Software Engineer</strong> based in <strong>Jakarta</strong>, loving cute <span style="color:#ff69b4;">microservices</span> &amp; <span style="color:#ff69b4;">distributed systems</span>. Let’s create adorable, high‑performance apps! 💖</p>
+  <a href="https://mein-gehirn.tech#work" style="display:inline-block; margin:8px 12px; padding:8px 16px; background:#ff6b6b; color:#fff; border-radius:6px; text-decoration:none;">Explore Projects ✨</a>
+  <a href="https://mein-gehirn.tech#contact" style="display:inline-block; margin:8px 12px; padding:8px 16px; background:#f7d794; color:#fff; border-radius:6px; text-decoration:none;">Get in touch 💌</a>
+</div>
 ---
 
 <div align="center">
   
-  [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bluntswordman)](https://github.com/bluntswordman)
+  [![Anime Trophies](assets/yukino.jpg)](https://github.com/bluntswordman)
 
 </div>
 
@@ -24,26 +31,70 @@
 
 <div align="center">
   <span style="display: inline-block;">
-    <img width="230px" src="https://drive.google.com/uc?id=1-xS13wzupIgbmgwlNiEqiGOSc9G1k0Bt" alt="divider" />
+    <img width="230px" src="assets/makise_kurisu.jpg" alt="Makise Kurisu" />
   </span>
   <span style="display: inline-block;">
     <a href="https://github.com/bluntswordman">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluntswordman&layout=donut-vertical" alt="Top Langs" />
+      <img src="assets/yuuki_asuna.jpg" alt="Yuuki Asuna" />
     </a>
   </span>
   <span style="display: inline-block;">
-    <img width="230px" src="https://drive.google.com/uc?id=1-xS13wzupIgbmgwlNiEqiGOSc9G1k0Bt" alt="divider" />
+    <img width="230px" src="assets/tendou_karen.jpg" alt="Tendou Karen" />
   </span>
 </div>
 
 <div align="center">
+  <h2>🛠️ Tech Stack</h2>
+  <p>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go" />
+    <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
+  </p>
+</div>
+
+<div align="center">
+  <!-- Most Used Language -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bluntswordman&layout=compact&langs_count=5" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <!-- Profile Stats -->
+  <a href="https://github.com/bluntswordman"><img src="https://komarev.com/ghpvc/?username=bluntswordman&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /></a>
+  <a href="https://github.com/bluntswordman"><img src="https://github-readme-stats.vercel.app/api?username=bluntswordman&show_icons=true&hide=issues,prs" alt="GitHub Stats" /></a>
+  <img src="https://img.shields.io/github/created-at/bluntswordman?label=Joined&color=blue" alt="Joined Date" />
+</div>
+
+<div align="center">
+  <!-- Snake Animation -->
+  <img src="https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
+<div align="center">
+  <!-- Contribution Graph -->
+  <img src="https://github.com/users/bluntswordman/contributions?format=svg" alt="Contribution Graph" />
+</div>
+<div align="center">
   <span style="display: inline-block;">
-    <img width="200px" src="https://drive.google.com/uc?id=1SIRxT6g9ZO0AjehBQiktdLD7We5D_P7L" alt="divider" />
-    <img width="200px" src="https://drive.google.com/uc?id=1SIRxT6g9ZO0AjehBQiktdLD7We5D_P7L" alt="divider" />
-    <img width="200px" src="https://drive.google.com/uc?id=1SIRxT6g9ZO0AjehBQiktdLD7We5D_P7L" alt="divider" />
-    <img width="200px" src="https://drive.google.com/uc?id=1SIRxT6g9ZO0AjehBQiktdLD7We5D_P7L" alt="divider" />
+  <div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
+  <a href="https://play.google.com/store/apps/details?id=superapps.polri.presisi.presisi" target="_blank">
+    <img src="assets/elaina.jpg" alt="Elaina" width="280" style="border-radius:8px;" />
+  </a>
+  <a href="https://protokol.palembang.go.id" target="_blank">
+    <img src="assets/makise_kurisu.jpg" alt="Makise Kurisu" width="280" style="border-radius:8px;" />
+  </a>
+  <a href="https://kuatbaca.com" target="_blank">
+    <img src="assets/tendou_karen.jpg" alt="Tendou Karen" width="280" style="border-radius:8px;" />
+  </a>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <a href="https://www.linkedin.com/in/bedy-briliant-wijaya/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/bluntswordman" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.instagram.com/_brln.by/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram" /></a>
+</div>
   </span>
 </div>
 
 
-<!-- [Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bluntswordman.bluntswordman)  -->
+[Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bluntswordman.bluntswordman) 
