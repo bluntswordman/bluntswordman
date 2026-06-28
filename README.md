@@ -47,26 +47,30 @@
   </p>
 </div>
 
-<div align="center">
   <!-- Most Used Language -->
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bluntswordman&layout=compact&langs_count=5" alt="Top Languages" />
-</div>
+</div> -->
+
+  <!-- Profile Stats -->
+<!-- <div align="center">
+  <a href="https://github.com/bluntswordman"><img src="https://github-readme-stats.vercel.app/api?username=bluntswordman&show_icons=true&hide=issues,prs" alt="GitHub Stats" /></a>
+</div> -->
 
 <div align="center">
-  <!-- Profile Stats -->
-  <a href="https://github.com/bluntswordman"><img src="https://komarev.com/ghpvc/?username=bluntswordman&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /></a>
-  <a href="https://github.com/bluntswordman"><img src="https://github-readme-stats.vercel.app/api?username=bluntswordman&show_icons=true&hide=issues,prs" alt="GitHub Stats" /></a>
-  <img src="https://img.shields.io/github/created-at/bluntswordman?label=Joined&color=blue" alt="Joined Date" />
-</div>
 <a href="https://github.com/bluntswordman"><img src="https://visitor-badge.laobi.icu/badge?page_id=bluntswordman.bluntswordman" alt="Visitor Badge" /></a>
+</div>
+
 <div align="center">
   <!-- Snake Animation -->
-  <img src="https://raw.githubusercontent.com/thepiyushmalhotra/thepiyushmalhotra/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+
+  ![Snake animation](https://github.com/bluntswordman/bluntswordman/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 <div align="center">
-  <!-- Contribution Graph -->
-  <img src="https://github.com/users/bluntswordman/contributions?format=svg" alt="Contribution Graph" />
+
+  [![我がなはメグミン! アークウィザードを 生業 とし , さいきょういの攻撃の魔法 "爆烈魔法" を操るモノ!](https://github-readme-activity-graph.vercel.app/graph?username=bluntswordman&theme=react-dark)](https://github.com/bluntswordman/github-readme-activity-graph)
 </div>
 <div align="center">
   <span style="display: inline-block;">
@@ -89,6 +93,5 @@
 </div>
   </span>
 </div>
-
 
 <!-- [Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bluntswordman.bluntswordman)  -->
