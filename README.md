@@ -74,20 +74,22 @@
 
 <div align="center">
 
-  [![我がなはメグミン! アークウィザードを 生業 とし , さいきょういの攻撃の魔法 "爆烈魔法" を操るモノ!](https://github-readme-activity-graph.vercel.app/graph?username=bluntswordman&theme=react-dark)](https://github.com/bluntswordman/github-readme-activity-graph)
+[![我がなはメグミン! アークウィザードを 生業 とし , さいきょういの攻撃の魔法 "爆烈魔法" を操るモノ!](https://github-readme-activity-graph.vercel.app/graph?username=bluntswordman&theme=react-dark)](https://github.com/bluntswordman/github-readme-activity-graph)
+
 </div>
+
 <div align="center">
-  <span style="display: inline-block;">
-  <div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
-  <a href="https://play.google.com/store/apps/details?id=superapps.polri.presisi.presisi" target="_blank">
+  <div style="display: flex; gap: 12px; justify-content: center;">
+    <a href="https://play.google.com/store/apps/details?id=superapps.polri.presisi.presisi" target="_blank">
     <img src="assets/elaina.jpg" alt="Elaina" width="230px" style="border-radius:8px;" />
   </a>
   <a href="https://protokol.palembang.go.id" target="_blank">
-    <div style="display:inline-block; background:radial-gradient(circle at 30% 30%,#ffccf2,#ffe6f8); border-radius:12px; padding:4px;"><img src="assets/rem.jpg" alt="Raphtalia" width="230px" style="border-radius:8px;" /></div>
+    <img src="assets/rem.jpg" alt="Raphtalia" width="230px" style="border-radius:8px;" />
   </a>
   <a href="https://kuatbaca.com" target="_blank">
     <img src="assets/tendou_karen.jpg" alt="Tendou Karen" width="230px" style="border-radius:8px;" />
   </a>
+  </div>
 </div>
 
 <div align="center" style="margin-top: 20px;">
