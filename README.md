@@ -1,6 +1,6 @@
 <div align="center">
   
-  [![omae wa mou shindeiru](https://drive.google.com/uc?id=19ND9T-ix9b1q3vYSXcJA_a_Il3IVXXgo)](https://github.com/bluntswordman)
+  
 
   <img width="100px" src="https://drive.google.com/uc?id=111I919_KxWRJOKJsmsbH6CdC-iMZP89_" align="center" alt="GitHub Readme Stats" />
   
@@ -86,6 +86,11 @@
     <img src="assets/tendou_karen.jpg" alt="Tendou Karen" width="230px" style="border-radius:8px;" />
   </a>
   </div>
+</div>
+
+
+<div align="center" style="margin-top: 20px;">
+[![omae wa mou shindeiru](https://drive.google.com/uc?id=19ND9T-ix9b1q3vYSXcJA_a_Il3IVXXgo)](https://github.com/bluntswordman)
 </div>
 
 
