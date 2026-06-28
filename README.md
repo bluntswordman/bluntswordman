@@ -90,7 +90,9 @@
 
 
 <div align="center" style="margin-top: 20px;">
+
 [![omae wa mou shindeiru](https://drive.google.com/uc?id=19ND9T-ix9b1q3vYSXcJA_a_Il3IVXXgo)](https://github.com/bluntswordman)
+
 </div>
 
 
