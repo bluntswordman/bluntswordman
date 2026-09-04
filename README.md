@@ -73,7 +73,7 @@
 
 <div align="center">
 
-[![我がなはメグミン! アークウィザードを 生業 とし , さいきょういの攻撃の魔法 "爆烈魔法" を操るモノ!](https://github-readme-activity-graph.vercel.app/graph?username=bluntswordman&theme=react-dark)](https://github.com/bluntswordman/github-readme-activity-graph)
+<!-- [![我がなはメグミン! アークウィザードを 生業 とし , さいきょういの攻撃の魔法 "爆烈魔法" を操るモノ!](https://github-readme-activity-graph.vercel.app/graph?username=bluntswordman&theme=react-dark)](https://github.com/bluntswordman/github-readme-activity-graph) -->
 
 </div>
 
