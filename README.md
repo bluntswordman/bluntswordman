@@ -40,25 +40,50 @@
 
 <div align="center">
   <h2>🛠️ Tech Stack</h2>
+
+
+  ### Programming Language
   <p>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go" />
-    <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white" alt="Go" />
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java" />
   </p>
 </div>
 
+<div align="center">
+
+  ### Partner 🥷🏻
+
+<p>
+  <img src="https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white" alt="ChatGPT" />
+  
+<img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff" alt="Claude">
+</p>
+  
+</div>
 
 <div align="center">
 
-<a href="https://github.com/bluntswordman"><img src="https://visitor-badge.laobi.icu/badge?page_id=bluntswordman.bluntswordman" alt="Visitor Badge" /></a>
+<!-- <a href="https://github.com/bluntswordman"><img src="https://visitor-badge.laobi.icu/badge?page_id=bluntswordman.bluntswordman" alt="Visitor Badge" /></a> -->
 
+</div>
+
+<div align="center">
+
+  ### Code Editor
+  
+<img src="https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF" alt="Zed">
+  
 </div>
 
 <div align="center" style="margin-top: 20px;">
 
-  <a href="https://www.linkedin.com/in/bedy-briliant-wijaya/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/bluntswordman" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.instagram.com/_brln.by/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram" /></a>
+### Social Media
+
+  <a href="https://www.linkedin.com/in/bedy-briliant-wijaya/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" /></a>
+  <a href="https://github.com/bluntswordman" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://gitlab.com/bluntswordman" target="_blank"><img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff" alt="Gitlab" /></a>
+  <a href="https://www.instagram.com/_brln.by/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
 </div>
 
 <div align="center">
